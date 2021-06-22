@@ -1,0 +1,71 @@
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background-image: url("https://westeurope1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Falqudscollege-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!2spDmTvk_Ey3l_QSLPv1vkLnsRzUCaRDqWTh1FX8GP5tUMRzFWzmQ47zimRsNl9q%2Fitems%2F015YABFJXHGVDY2GB3KVDZEBRU55PJGNVY%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYWxxdWRzY29sbGVnZS1teS5zaGFyZXBvaW50LmNvbUBhMTYyYzUzMi03YTBjLTQ2NDUtOTZmZC0yMGQwMTljZjRlNWEiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjI0MzUyNDAwIiwiZXhwIjoiMTYyNDM3NDAwMCIsImVuZHBvaW50dXJsIjoiVzlMTWdBNGxHaTJ6MjJ2M3VoNEcxNVJDMmlpLzZrMllKd1ZyWVJwSklSUT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjEyMyIsImlzbG9vcGJhY2siOiJUcnVlIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6Ik9UazBNMk5oWkdFdFpUUXpZaTAwWTJaakxXSTNPVGN0WmpReE1qSmpabUptTldKbCIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uIzIyYzc1ZmI1NjJlNWMzOTA0MGQ0Y2E2OWNjZThiZTZkNGQyYWQ2YjA2Y2VlZGFhY2Y1ZWYyZWVjOGFiZmVlZTAiLCJuaWkiOiJtaWNyb3NvZnQuc2hhcmVwb2ludCIsImlzdXNlciI6InRydWUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2Fhbm9uIzIyYzc1ZmI1NjJlNWMzOTA0MGQ0Y2E2OWNjZThiZTZkNGQyYWQ2YjA2Y2VlZGFhY2Y1ZWYyZWVjOGFiZmVlZTAiLCJzaGFyaW5naWQiOiI5Q0JFMHQ3VHRrQ3ZJenpORnp0VnJBIiwidHQiOiIwIiwidXNlUGVyc2lzdGVudENvb2tpZSI6IjIifQ.UmplTWpLOTJlN2hlV3NSQ2ZoY2dkdmFkbzZKTnV0a1pmR1JyR3IydWxpND0&encodeFailures=1&width=626&height=417&srcWidth=626&srcHeight=417");
+    background-color: #cccccc;
+    height: 100%;
+width: 100%;
+   }
+table,th,tr{
+margin-right: 50%;
+    border: solid #f5f5f5 1px;
+   border-collapse: collapse;
+    color: #f5f5f5;
+}
+   
+th{
+    background-color:#1F1F1F;
+
+}
+td{
+    background-color:#3D3D3D;
+    border: solid #f5f5f5 1px;
+} 
+
+div{
+
+height: 200%;
+    background-color: rgba(114, 104, 211, 0.8);
+    padding: 3%;
+
+    display: inline-block;
+    text-align: center;
+}
+label{
+    color: #f5f5f5;
+
+}
+#submit{
+
+    background-color:#1F1F1F;
+    color: #f5f5f5;
+}
+
+#part1{
+margin-top: 10%;
+    margin-left: 30%;
+    padding: 3%;
+}
+h3{
+    padding-top: 1%;
+    background-color:#1F1F1F;
+    border: solid #f5f5f5 1px;
+    text-align: center;
+height: 60px;
+font-size: larger;
+font-weight: bolder;
+color: #f5f5f5;
+
+
+}
+#studentName,#course,#submit{
+width: 150px;
+
+}
+
+
+/* 
+#form{
+    margin-right: 20%;
+
+} */
